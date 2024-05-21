@@ -4,3 +4,5 @@
 https://hamim30.github.io/web-dev-prac/Spotify-clone/index.html <br>
 # Simple Cart
 https://hamim30.github.io/web-dev-prac/shopping-cart/index.html
+# Flight Booking Cart
+https://hamim30.github.io/web-dev-prac/flight-booking-cart/index.html
